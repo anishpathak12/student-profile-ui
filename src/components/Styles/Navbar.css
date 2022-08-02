@@ -1,7 +1,7 @@
 .Navbar{
     display: flex;
     justify-content: space-between;
-    background-color: rgb(181, 178, 178);
+    background-color: #c4c4c4;
 }
 
 ul{

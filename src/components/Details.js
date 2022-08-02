@@ -18,7 +18,7 @@ function Details() {
                         <option>Female</option>
                         <option>Male</option>
                     </select>
-                    <input className='middle-input' type="calander" placeholder="Date of Birth:" />
+                    <input className='middle-input dob' type="calander" placeholder="Date of Birth:" />
                 </div>
                 <input className='corner-input' type="text" placeholder="Sector of Activity" />
             </div>
@@ -33,7 +33,7 @@ function Details() {
                         <option>India</option>
                         <option>U.S.</option>
                     </select>
-                    <select className='middle-input'>
+                    <select className='middle-input city'>
                         <option>Bangalore</option>
                         <option>Pune</option>
                     </select>
@@ -43,7 +43,7 @@ function Details() {
                         <option>Karnataka</option>
                         <option>Maharashtra</option>
                     </select>
-                    <input className='middle-input' type="number" value= {560016} />
+                    <input className='middle-input pin' type="number" value= {560016} />
                 </div>
                 <input className='corner-input' type="text" placeholder="Resume/Other Documents" />
                 
