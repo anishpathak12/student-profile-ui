@@ -1,0 +1,37 @@
+.Details{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(181, 178, 178);
+    padding-bottom: 40px;
+    
+}
+
+.heading{
+    display: flex;
+    justify-content: space-between;
+}
+input{
+    background-color: white;
+}
+.corner-input{
+    padding: 10px 300px 10px 10px;
+}
+.middle-input{
+    padding: 10px 0px 10px 10px;
+    width: 45%;
+}
+.inputs{
+    display: flex;
+    gap: 20px;
+}
+.inputs-2{
+    display: flex;
+    gap: 20px;
+}
+button{
+    height: 100%;
+    margin-top: 20px;
+    padding: 5px 10px;
+    background-color: black;
+    color: white;
+}

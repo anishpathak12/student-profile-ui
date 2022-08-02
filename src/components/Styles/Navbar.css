@@ -1,0 +1,21 @@
+.Navbar{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(181, 178, 178);
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    
+}
+li{
+    padding: 10px;
+}
+
+.nav-img{
+    display: flex;
+}
+.nav-megan{
+    border-radius: 50px;
+}

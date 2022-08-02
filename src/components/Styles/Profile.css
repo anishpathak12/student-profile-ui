@@ -1,0 +1,12 @@
+.Profile{
+    text-align: center;
+}
+
+.megan{
+    border-radius: 50%;
+}
+.para{
+    /* align-items:inherit; */
+    padding: 20px;
+    background-color: rgb(181, 178, 178);
+}
