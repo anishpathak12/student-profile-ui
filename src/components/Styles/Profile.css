@@ -6,12 +6,10 @@
     border-radius: 50%;
 }
 .para{
-    
     background-color: #f1f1f1;
+    padding: 50px 50px 30px 50px;
 }
-.para-button{
-    justify-content: end;
-}
+
 .main-para{
-    padding: 30px 50px 50px 50px;
+    
 }

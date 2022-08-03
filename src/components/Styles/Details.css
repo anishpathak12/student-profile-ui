@@ -3,6 +3,7 @@
     justify-content: space-around;
     background-color: #f1f1f1;
     padding-bottom: 40px;
+    /* border-top: 20px; */
     
 }
 
@@ -12,9 +13,11 @@
 }
 input{
     background-color: white;
+    margin-top: 10px;
 }
 select{
     background-color: white;
+    margin-top: 10px;
 }
 .corner-input{
     padding: 10px 300px 10px 10px;
